@@ -34,19 +34,7 @@ I build agentic AI pipelines and RAG systems with real industrial domain experti
 
 ### 🎓 Education & Certifications
 
-```
-──────────────────────────────────────────────────────────────
-  📘 SSC · Maharashtra State Board                    80%
-──────────────────────────────────────────────────────────────
-  📗 HSC · Maharashtra State Board                    84%
-──────────────────────────────────────────────────────────────
-  🎓 BE Mechanical Engineering                     8.62/10
-     University of Mumbai · Minor in 3D Printing · 2021–2025
-──────────────────────────────────────────────────────────────
-  🏅 Oracle Certified: Generative AI Professional     2025
-  🏅 Oracle Certified: AI Vector Search Professional  2025
-──────────────────────────────────────────────────────────────
-```
+![Architecture](education_timeline.svg)
 
 ---
 
