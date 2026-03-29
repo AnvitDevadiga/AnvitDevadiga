@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi, I'm Anvit Devadiga
 
 ### AI Engineer · Building Production-Grade LLM Systems
@@ -30,15 +32,27 @@ I build agentic AI pipelines and RAG systems with real industrial domain experti
 
 ---
 
-### 📈 GitHub Stats
+### 🎓 Education & Certifications
 
-![Anvit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+```
+──────────────────────────────────────────────────────────────
+  📘 SSC · Maharashtra State Board                    80%
+──────────────────────────────────────────────────────────────
+  📗 HSC · Maharashtra State Board                    84%
+──────────────────────────────────────────────────────────────
+  🎓 BE Mechanical Engineering                     8.62/10
+     University of Mumbai · Minor in 3D Printing · 2021–2025
+──────────────────────────────────────────────────────────────
+  🏅 Oracle Certified: Generative AI Professional     2025
+  🏅 Oracle Certified: AI Vector Search Professional  2025
+──────────────────────────────────────────────────────────────
+```
 
 ---
 
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-anvitdevadiga.in@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anvitdevadiga.in@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anvitdevadiga)
+[![GitHub](https://img.shields.io/badge/GitHub-AnvitDevadiga-181717?style=flat-square&logo=github)](https://github.com/AnvitDevadiga)
+
+</div>
