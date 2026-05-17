@@ -177,12 +177,13 @@ They cared whether the machines would still be running tomorrow morning.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true&rank_icon=github"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true&rank_icon=github"/>
-</picture>
+  <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true" />
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=5"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=5" />
+
+</div>
 </picture>
 
 </div>
