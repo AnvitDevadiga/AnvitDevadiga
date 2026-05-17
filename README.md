@@ -244,43 +244,6 @@ status = "actively building · open to the right AI engineering role"
 
 ---
 
-<!-- ═══════════════════════════  SNAKE SETUP NOTE  ═══════════════════════════ -->
-
-<!--
-  ╔══ SNAKE ANIMATION SETUP (one-time, ~5 min) ═══════════════════╗
-  ║                                                               ║
-  ║  Create: .github/workflows/snake.yml in this repo            ║
-  ║  Paste the following content:                                 ║
-  ║                                                               ║
-  ║  name: Generate Snake                                         ║
-  ║  on:                                                          ║
-  ║    schedule:                                                  ║
-  ║      - cron: "0 */6 * * *"                                    ║
-  ║    workflow_dispatch:                                          ║
-  ║  jobs:                                                        ║
-  ║    build:                                                      ║
-  ║      runs-on: ubuntu-latest                                   ║
-  ║      steps:                                                   ║
-  ║        - uses: actions/checkout@v3                            ║
-  ║        - uses: Platane/snk/svg-only@v3                        ║
-  ║          with:                                                ║
-  ║            github_user_name: AnvitDevadiga                    ║
-  ║            outputs: |                                         ║
-  ║              dist/github-contribution-grid-snake.svg          ║
-  ║              dist/github-contribution-grid-snake-dark.svg     ║
-  ║                ?palette=github-dark                           ║
-  ║        - uses: crazy-max/ghaction-github-pages@v3             ║
-  ║          with:                                                ║
-  ║            target_branch: output                              ║
-  ║            build_dir: dist                                    ║
-  ║          env:                                                 ║
-  ║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}          ║
-  ║                                                               ║
-  ║  Then: Actions tab → run workflow manually once               ║
-  ║  Settings → Actions → General → Read & Write permissions      ║
-  ╚═══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <sub>built carefully · not generated · every line has a reason</sub>
