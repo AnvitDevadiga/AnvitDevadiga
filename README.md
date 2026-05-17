@@ -1,123 +1,290 @@
+<!--
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  Anvit Devadiga — GitHub Profile README                         │
+  │  Designed to feel handcrafted, not generated.                   │
+  │  Every section has a reason. Every line earns its place.        │
+  └─────────────────────────────────────────────────────────────────┘
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:0d0d0d&height=60&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:0d1117,50:0d1117,75:0d1117,100:0a0a0f&height=80&section=header" width="100%"/>
+
+</div>
+
+<!-- ═══════════════════════════  HERO  ═══════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+```
+ █████╗ ███╗   ██╗██╗   ██╗██╗████████╗
+██╔══██╗████╗  ██║██║   ██║██║╚══██╔══╝
+███████║██╔██╗ ██║██║   ██║██║   ██║   
+██╔══██║██║╚██╗██║╚██╗ ██╔╝██║   ██║   
+██║  ██║██║ ╚████║ ╚████╔╝ ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝   ╚═╝   
+```
 
 </div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║           I build AI systems that work in production.        ║
-║           Not demos. Not notebooks. Production.              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=64B5F6&center=true&vCenter=true&width=560&lines=Agentic+AI+%7C+RAG+Pipelines+%7C+Local+LLM+Deployment;LangGraph+%C2%B7+Ollama+%C2%B7+FastAPI+%C2%B7+ChromaDB;Mechanical+Engineer+→+AI+Systems+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%E2%80%94+I+build+systems%2C+not+demos.;Agentic+AI+%C2%B7+RAG+Pipelines+%C2%B7+Local+LLM+Deployment;Mechanical+roots.+Software+execution.+AI+obsession.;If+it+breaks+at+3AM%2C+I've+already+fixed+it.)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-anvitdevadiga%40outlook.com-0d1117?style=flat-square&logo=microsoftoutlook&logoColor=58A6FF)](mailto:anvitdevadiga@outlook.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/anvitdevadiga)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=AnvitDevadiga&style=flat-square&color=58A6FF&label=profile+views)](https://github.com/AnvitDevadiga)
+
+</div>
+
+<br/>
+
 ---
 
-### I'm Anvit.
+<!-- ═══════════════════════════  MANIFESTO  ═══════════════════════════ -->
 
-Mechanical engineer who learned how real systems fail — vibration, load, heat, tolerance.  
-Now I apply that same thinking to AI: **how it breaks, where it hallucinates, and why it shouldn't reach production.**
+## &nbsp;The way I think
 
-My edge isn't just knowing LangChain. It's knowing what happens when your agentic pipeline hits edge cases at 2AM and the stakes are real.
+&nbsp;&nbsp;&nbsp;&nbsp;Most engineers learn AI from tutorials.  
+&nbsp;&nbsp;&nbsp;&nbsp;I learned from watching a **500MW turbine** tell you it's dying through vibration data —  
+&nbsp;&nbsp;&nbsp;&nbsp;six seconds before it actually does.
+
+&nbsp;&nbsp;&nbsp;&nbsp;That urgency never left me.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Now I build AI systems with the same mentality: **real inputs, real failure modes, real stakes.**  
+&nbsp;&nbsp;&nbsp;&nbsp;Agentic pipelines that don't hallucinate. RAG systems that cite. Models that run with zero internet.  
+&nbsp;&nbsp;&nbsp;&nbsp;Things that work when it matters — not just in notebooks.
+
+<br/>
 
 ---
 
-### What I actually do
+<!-- ═══════════════════════════  ARCHITECTURE  ═══════════════════════════ -->
+
+## &nbsp;What I'm building
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ &nbsp;Multi-Agent Research Assistant
+**[→ github.com/AnvitDevadiga/research-assistant](https://github.com/AnvitDevadiga/research-assistant)**
+
+A 4-node **LangGraph** orchestration pipeline. Each node has one job and does it exactly right.
+
+```
+[WEB SEARCH] ──► [SUMMARISER] ──► [CRITIC] ──► [REPORT]
+      ↑                                              │
+      └──────────── contradiction detected ◄─────────┘
+```
+
+- Source contradiction detection across real-time web results
+- Per-claim confidence scoring — not vibes, actual weights
+- Response in **< 200ms** · Deployed live on Render
+
+`LangGraph` · `Groq` · `FastAPI` · `DuckDuckGo API`
+
+</td>
+<td width="50%" valign="top">
+
+### ⬡ &nbsp;Legal Eagle
+**[→ github.com/AnvitDevadiga/legal-eagle](https://github.com/AnvitDevadiga/legal-eagle)**
+
+**Full offline RAG** over 623 pages of Indian legal corpus. Zero API dependency.
+
+```
+[PDF INGESTION]
+      │
+ [CHUNK + EMBED]  ◄─── section-level metadata
+      │
+ [CHROMADB]  ──► [RERANKER]  ──► [LLAMA 3 LOCAL]
+                                        │
+                              [CITED ANSWER]
+```
+
+- Air-gapped deployment ready — no data leaves the machine
+- Metadata filtering by section, act, clause
+- Citation-backed answers · **5–10s** on complex legal queries
+
+`Llama 3` · `ChromaDB` · `LangChain` · `Ollama`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
+
+## &nbsp;Stack
+
+<div align="center">
+
+| Layer | Tools |
+|:---|:---|
+| **AI / Agents** | Python · LangChain · LangGraph · Ollama · Groq · HuggingFace |
+| **Local Models** | Llama 3 · Mistral · Phi · Quantised GGUF on CPU/GPU |
+| **Vector & RAG** | ChromaDB · FAISS · Embedding pipelines · Re-ranking |
+| **ML** | PyTorch · Scikit-learn · MLflow · Pandas · NumPy |
+| **Backend** | FastAPI · Docker · Render · Streamlit |
+| **Foundations** | Git · REST APIs · Linux · Prompt Engineering |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════  PROOF  ═══════════════════════════ -->
+
+## &nbsp;Before AI — real machines, real stakes
+
+> **Condition Monitoring Intern · Adani Electricity · 500MW Live Facility · 2023**
+
+I wasn't running scripts on sample data.  
+I was on a live power generation floor, with sensor arrays across **10+ active machine types**,  
+building a **Random Forest Regressor** on **1,600 real vibration readings**.
+
+**R² = 0.99.**  
+Equipment vibration dropped from **3–5g → 0.6g**.
+
+Nobody cared about precision scores or clean notebooks.  
+They cared whether the machines would still be running tomorrow morning.
+
+*That's the standard I hold my AI systems to.*
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+
+## &nbsp;Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true&rank_icon=github"/>
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=5"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=5"/>
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnvitDevadiga&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=58A6FF&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58&sideNums=c9d1d9&currStreakNum=c9d1d9" width="480"/>
+
+</div>
+
+<br/>
+
+<!-- Snake — set this up with the GitHub Action below -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnvitDevadiga/AnvitDevadiga/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnvitDevadiga/AnvitDevadiga/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AnvitDevadiga/AnvitDevadiga/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════  NOW  ═══════════════════════════ -->
+
+## &nbsp;Right now
 
 ```python
-class AnvitDevadiga:
-    def __init__(self):
-        self.building      = "multi-agent systems with memory + tool use"
-        self.obsessed_with = "LLMs that run offline — no API, no latency, no data leaks"
-        self.background    = "ME → condition monitoring on live 500MW turbines → AI engineering"
-        self.principle     = "if it doesn't survive production, it isn't done"
+current_work = [
+    "benchmarking Llama / Mistral / Phi on edge hardware — real latency/accuracy tradeoffs",
+    "building persistent memory into multi-agent loops: scratchpad + vector recall",
+    "making LLM structured output (JSON) reliable at scale without fragile prompt hacks",
+    "studying transformer internals — attention, KV cache, quantisation mechanics",
+]
+
+status = "actively building · open to the right AI engineering role"
 ```
 
----
-
-### Stack
-
-```
-AI / ML        Python · PyTorch · HuggingFace · Scikit-learn
-Agents / RAG   LangChain · LangGraph · Ollama · Groq · ChromaDB
-Backend        FastAPI · Docker · Render · Streamlit
-Tracking       MLflow · Git
-Certs          Oracle GenAI Professional · Oracle AI Vector Search
-```
+<br/>
 
 ---
 
-### Projects
+<!-- ═══════════════════════════  BACKGROUND  ═══════════════════════════ -->
 
-**[Multi-Agent Research Assistant](https://github.com/AnvitDevadiga/research-assistant)**  
-4-node LangGraph pipeline: Search → Summarize → Critique → Report  
-Real-time web search. Source contradiction detection. Confidence scoring per claim.  
-`<200ms` response · Live on Render  
-→ `LangGraph` `Groq` `FastAPI` `DuckDuckGo`
+## &nbsp;Background
 
----
+| | |
+|:---|:---|
+| 🎓 **B.E. Mechanical Engineering** | University of Mumbai · **8.62 / 10** · 2021–2025 |
+| 🏅 **Oracle Certified** | Generative AI Professional · 2025 |
+| 🏅 **Oracle Certified** | AI Vector Search Professional · 2025 |
+| 🔬 **Honors** | 3D Printing Technology |
 
-**[Legal Eagle](https://github.com/AnvitDevadiga/legal-eagle)**  
-Fully offline RAG over 623 pages of Indian legal documents  
-Zero external API calls. Air-gapped deployment ready. Section-level metadata filtering + re-ranking.  
-Citation-backed answers on complex queries.  
-→ `Llama 3` `Ollama` `ChromaDB` `LangChain`
+<br/>
 
 ---
 
-### What I proved before AI
+<!-- ═══════════════════════════  SNAKE SETUP NOTE  ═══════════════════════════ -->
 
-> **Condition Monitoring Intern — Adani Electricity** · 500MW Live Facility · 2023  
-> Random Forest on 1,600 real vibration sensor readings · **R² = 0.99**  
-> Reduced equipment vibration from **3–5g → 0.6g** across 10+ machine types
-
-*This is why I don't fear production. I've debugged things that cost ₹ crores per hour of downtime.*
-
----
-
-### Stats
+<!--
+  ╔══ SNAKE ANIMATION SETUP (one-time, ~5 min) ═══════════════════╗
+  ║                                                               ║
+  ║  Create: .github/workflows/snake.yml in this repo            ║
+  ║  Paste the following content:                                 ║
+  ║                                                               ║
+  ║  name: Generate Snake                                         ║
+  ║  on:                                                          ║
+  ║    schedule:                                                  ║
+  ║      - cron: "0 */6 * * *"                                    ║
+  ║    workflow_dispatch:                                          ║
+  ║  jobs:                                                        ║
+  ║    build:                                                      ║
+  ║      runs-on: ubuntu-latest                                   ║
+  ║      steps:                                                   ║
+  ║        - uses: actions/checkout@v3                            ║
+  ║        - uses: Platane/snk/svg-only@v3                        ║
+  ║          with:                                                ║
+  ║            github_user_name: AnvitDevadiga                    ║
+  ║            outputs: |                                         ║
+  ║              dist/github-contribution-grid-snake.svg          ║
+  ║              dist/github-contribution-grid-snake-dark.svg     ║
+  ║                ?palette=github-dark                           ║
+  ║        - uses: crazy-max/ghaction-github-pages@v3             ║
+  ║          with:                                                ║
+  ║            target_branch: output                              ║
+  ║            build_dir: dist                                    ║
+  ║          env:                                                 ║
+  ║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}          ║
+  ║                                                               ║
+  ║  Then: Actions tab → run workflow manually once               ║
+  ║  Settings → Actions → General → Read & Write permissions      ║
+  ╚═══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=64b5f6&icon_color=64b5f6&text_color=94a3b8&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=64b5f6&text_color=94a3b8&langs_count=5" />
+<sub>built carefully · not generated · every line has a reason</sub>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:0d1117,50:0d1117,75:0d1117,100:0a0a0f&height=80&section=footer" width="100%"/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnvitDevadiga&theme=dark&hide_border=true&background=0d0d0d&stroke=1e293b&ring=64b5f6&fire=64b5f6&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=e2e8f0" width="460"/>
-
-</div>
-
----
-
-### Currently
-
-- Benchmarking local LLMs (Llama, Mistral, Phi) on edge hardware — latency vs accuracy tradeoffs
-- Building persistent memory into multi-agent systems (scratchpad + vector recall)
-- Making structured JSON output from LLMs reliable at scale, without prompt hacks
-- B.E. Mechanical Engineering · University of Mumbai · **8.62 CGPA** · 2025
-
----
-
-<div align="center">
-
-`anvitdevadiga@outlook.com` &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anvitdevadiga)
-
-*Open to AI engineering roles where the work is hard and the stakes are real.*
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:0d0d0d&height=60&section=footer" width="100%"/>
 </div>
