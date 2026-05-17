@@ -175,11 +175,9 @@ They cared whether the machines would still be running tomorrow morning.
 
 <div align="center">
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnvitDevadiga&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&count_private=true&cache_seconds=1800" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitDevadiga&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=5&cache_seconds=1800" />
 
 </div>
 
