@@ -2,24 +2,49 @@
 
 AI Engineer focused on building RAG systems, agentic workflows, and practical AI applications.
 
-### Tech
+### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github" />
 </p>
 
 <p>
-  AI Systems • LangChain • LangGraph • ChromaDB • Oracle Vector Search
+  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" height="40" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AnvitDevadiga/AnvitDevadiga/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/AnvitDevadiga/AnvitDevadiga/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Python • SQL</td>
+</tr>
+
+<tr>
+<td><b>AI/ML</b></td>
+<td>Generative AI • Agentic AI • RAG</td>
+</tr>
+
+<tr>
+<td><b>Frameworks</b></td>
+<td>LangChain • LangGraph • FastAPI</td>
+</tr>
+
+<tr>
+<td><b>Vector DBs</b></td>
+<td>ChromaDB • FAISS • Oracle Vector Search</td>
+</tr>
+
+<tr>
+<td><b>Cloud</b></td>
+<td>OCI • Docker • GitHub</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>PostgreSQL • MySQL</td>
+</tr>
+</table>
 
 ### Contact
 
