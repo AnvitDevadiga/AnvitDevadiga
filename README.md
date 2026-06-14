@@ -29,7 +29,7 @@ LangChain • LangGraph • ChromaDB • FAISS • Oracle Vector Search • OCI
 </a>
 
 <a href="https://www.linkedin.com/in/anvitdevadiga/">
-<img src="https://cdn.simpleicons.org/linkedin" height="45"/>
+<img src="https://cdn.simpleicons.org/Linkedin" height="45"/>
 </a>
 
 <a href="https://leetcode.com/u/AnvitDevadiga/">
