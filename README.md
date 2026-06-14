@@ -4,16 +4,6 @@ AI Engineer focused on building RAG systems, agentic workflows, and practical AI
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github" />
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain" height="40" />
-</p>
-
 <table>
 <tr>
 <td><b>Languages</b></td>
