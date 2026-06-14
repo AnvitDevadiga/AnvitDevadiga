@@ -22,14 +22,3 @@ AI Engineer building RAG systems, agentic workflows, and practical AI applicatio
   </picture>
 </p>
 
-<h3>Hire Me</h3>
-
-<p>
-  <a href="mailto:anvit.works@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
-  </a>
-
-  <a href="https://leetcode.com/u/AnvitDevadiga/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" />
-  </a>
-</p>
