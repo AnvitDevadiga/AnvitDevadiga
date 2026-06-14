@@ -18,8 +18,7 @@ Python · LangChain · LangGraph · FastAPI · ChromaDB · Oracle Vector Search 
 
 ### Contact
 anvit.works@gmail.com
-LinkedIn → linkedin.com/in/anvitdevadiga
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnvitDevadiga/AnvitDevadiga/output/snake.svg" />
+  <img src=".github/workflows/snake.yml" />
 </p>
