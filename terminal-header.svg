@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 350" width="850" height="350">
+  <!-- Background and Terminal Window -->
+  <rect width="100%" height="100%" fill="#282c34" rx="8"/>
+  <path d="M 0 8 Q 0 0 8 0 L 842 0 Q 850 0 850 8 L 850 40 L 0 40 Z" fill="#21252b"/>
+  <text x="25" y="25" fill="#abb2bf" font-family="monospace" font-size="14">anvit.dev — zsh</text>
+  
+  <!-- Terminal Controls -->
+  <path d="M 795 18 L 805 18 M 800 13 L 800 23" stroke="#abb2bf" stroke-width="1.5" fill="none"/>
+  <rect x="815" y="14" width="12" height="12" stroke="#abb2bf" stroke-width="1.5" fill="none"/>
+
+  <!-- ASCII Name Art (ANVIT) Centered -->
+  <g font-family="monospace" font-size="18" font-weight="bold" transform="translate(215, 140)">
+    <text x="0" y="0"  fill="#56b6c2"> █████╗ ███╗   ██╗██╗   ██╗██╗████████╗</text>
+    <text x="0" y="25" fill="#98c379">██╔══██╗████╗  ██║██║   ██║██║╚══██╔══╝</text>
+    <text x="0" y="50" fill="#e5c07b">███████║██╔██╗ ██║██║   ██║██║   ██║   </text>
+    <text x="0" y="75" fill="#c678dd">██╔══██║██║╚██╗██║╚██╗ ██╔╝██║   ██║   </text>
+    <text x="0" y="100" fill="#61afef">██║  ██║██║ ╚████║ ╚████╔╝ ██║   ██║   </text>
+    <text x="0" y="125" fill="#e06c75">╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝   ╚═╝   </text>
+  </g>
+</svg>
