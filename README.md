@@ -8,9 +8,7 @@ AI Engineer building RAG systems, agentic workflows, and practical AI applicatio
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github" />
 </p>
 
-<div align="center">
-  <img src="./terminal-header.svg" alt="Anvit Devadiga Terminal Layout" width="850">
-</div>
+
 
 <p>
   LangChain • LangGraph • ChromaDB • FAISS • Oracle Vector Search
