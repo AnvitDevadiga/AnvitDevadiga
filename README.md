@@ -1,5 +1,12 @@
-# Anvit Devadiga
+```
+█████╗ ███╗   ██╗██╗   ██╗██╗████████╗
+██╔══██╗████╗  ██║██║   ██║██║╚══██╔══╝
+███████║██╔██╗ ██║██║   ██║██║   ██║   
+██╔══██║██║╚██╗██║╚██╗ ██╔╝██║   ██║   
+██║  ██║██║ ╚████║ ╚████╔╝ ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝   ╚═╝
 
+```
 AI Engineer building RAG systems, agentic workflows, and practical AI applications.
 
 <h3>Tech Stack</h3>
