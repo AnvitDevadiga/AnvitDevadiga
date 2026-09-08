@@ -27,14 +27,6 @@ Email: "anvit.works@gmail.com"
 Repos: "15"
 Stars: "3"
 
-# Pinned Projects
-LegalEagle: "Offline RAG legal assistant for Indian law"
-spider-sense: "Autonomous predictive price intelligence"
-
-```
-
-```
-
 ```
 
 AI Engineer building RAG systems, agentic workflows, and practical AI applications.
