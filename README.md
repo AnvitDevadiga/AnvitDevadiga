@@ -29,19 +29,12 @@ problem -> context -> tools -> guardrails -> useful outcome
 
 I design end-to-end workflows with reliability in mind: isolated execution environments, explicit approval gates for external actions, deterministic calculations where accuracy matters, and retry and rate-limit handling for production APIs.
 
-### Credentials
-
-- Oracle Cloud Infrastructure Generative AI Professional
-- Machine Learning Specialization — Stanford University / DeepLearning.AI
-- McKinsey Forward Program
-- Bachelor of Engineering in Mechanical Engineering — University of Mumbai, 2025 · CGPA: 8.62/10
 
 ### Let's connect
 
 I'm interested in opportunities to build dependable AI products and agentic systems.
 
 [![Email](https://img.shields.io/badge/Email-anvit.works%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:anvit.works@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anvitdevadiga-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvitdevadiga)
 [![GitHub](https://img.shields.io/badge/GitHub-AnvitDevadiga-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AnvitDevadiga)
 
 <sub>Mumbai, India · AI Engineer</sub>
