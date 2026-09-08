@@ -30,11 +30,3 @@ problem -> context -> tools -> guardrails -> useful outcome
 I design end-to-end workflows with reliability in mind: isolated execution environments, explicit approval gates for external actions, deterministic calculations where accuracy matters, and retry and rate-limit handling for production APIs.
 
 
-### Let's connect
-
-I'm interested in opportunities to build dependable AI products and agentic systems.
-
-[![Email](https://img.shields.io/badge/Email-anvit.works%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:anvit.works@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AnvitDevadiga-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AnvitDevadiga)
-
-<sub>Mumbai, India · AI Engineer</sub>
