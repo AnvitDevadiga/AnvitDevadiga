@@ -41,8 +41,7 @@ The issue in "Screenshot 2026-09-08 at 08.50.52.png" is that the word `yaml` is 
 
 Here is the complete, compiled code for your README. Copy everything inside the outer block below and paste it directly into your GitHub `README.md`:
 
-```markdown
-```text
+```
  █████╗ ███╗   ██╗██╗   ██╗██╗████████╗   ██████╗ ███████╗██╗   ██║ █████╗██████╗ ██╗ ██████╗ █████╗
 ██╔══██╗████╗  ██║██║   ██║██║╚══██╔══╝   ██╔══██╗██╔════╝██║   ██║██╔══██╗██╔══██╗██║██╔════╝██╔══██╗
 ███████║██╔██╗ ██║██║   ██║██║   ██║      ██║  ██║█████╗  ██║   ██║███████║██║  ██║██║██║  ███║███████║
