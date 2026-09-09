@@ -29,4 +29,3 @@ problem -> context -> tools -> guardrails -> useful outcome
 
 I design end-to-end workflows with reliability in mind: isolated execution environments, explicit approval gates for external actions, deterministic calculations where accuracy matters, and retry and rate-limit handling for production APIs.
 
-
