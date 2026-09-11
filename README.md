@@ -1,31 +1,15 @@
 # Hi, I'm Anvit Devadiga
 
-```text
-anvit@github:~$ whoami
-AI Engineer building production-oriented generative AI and agentic systems.
+I'm an AI Engineer building production-ready generative AI and agentic systems. 
 
-anvit@github:~$ focus --current
-RAG  |  AI agents  |  tool calling  |  reliable backend systems
-```
+I focus on building AI that does actual work: retrieving context, using tools, coordinating workflows, and executing code safely. I care just as much about the engineering *around* the model—clear APIs, resilient integrations, and system reliability—as I do about the models themselves.
 
-I build AI systems that do more than generate text: they retrieve context, use tools, coordinate workflows, execute code safely, connect to external services, and keep humans in control of consequential actions.
+### What I work with
+- **AI & Agents:** LangGraph, Model Context Protocol (MCP), tool calling, human-in-the-loop workflows
+- **Retrieval & Search:** RAG, Chroma, FAISS, Oracle AI Vector Search
+- **Backend & Data:** Python, TypeScript, FastAPI, PostgreSQL, SQLite, WebSockets
+- **Models & Voice:** LLM APIs, Ollama, Hugging Face, Whisper, Edge-TTS, scikit-learn
+- **Infra:** Docker, Git, REST APIs, webhooks
 
-My work spans autonomous operations and software-engineering agents, real-time voice automation, and predictive intelligence platforms. I care about the engineering around the model just as much as the model itself—clear APIs, deterministic computation, resilient integrations, and systems that are practical to operate.
-
-### What I bring
-
-- **Agentic AI:** LangGraph, Model Context Protocol (MCP), tool calling, human-in-the-loop workflows, prompt engineering
-- **Retrieval & vector search:** RAG, Chroma, FAISS, Oracle AI Vector Search
-- **Backend engineering:** Python, TypeScript, SQL, Bash, FastAPI, REST APIs, WebSockets, webhooks
-- **Models & applied ML:** LLM APIs, Ollama, Hugging Face, scikit-learn, linear regression
-- **Voice AI:** OpenAI Whisper, Edge-TTS, streaming voice pipelines
-- **Data & infrastructure:** PostgreSQL, SQLite, Docker, Git, GitHub, third-party API integrations
-
-### How I work
-
-```text
-problem -> context -> tools -> guardrails -> useful outcome
-```
-
-I design end-to-end workflows with reliability in mind: isolated execution environments, explicit approval gates for external actions, deterministic calculations where accuracy matters, and retry and rate-limit handling for production APIs.
-
+### How I build
+I design workflows with reliability in mind. That means isolated execution environments, explicit approval gates for external actions, deterministic calculations where accuracy matters, and proper error and rate-limit handling for production APIs.
