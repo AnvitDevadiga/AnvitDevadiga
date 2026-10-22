@@ -8,7 +8,7 @@ I build AI systems focused on model performance, reliable agents, and backend in
 ### Featured Projects
 
 - **[MiniLM Lab](https://github.com/AnvitDevadiga/MiniLM-Lab)** — Transformer training, inference optimization, and reproducible benchmarks.
-- **[Tender](https://github.com/AnvitDevadiga/tender)** — Coding agent infrastructure with isolated execution, independent verification, and evaluation.
+- **[Tender](https://github.com/AnvitDevadiga/Tender)** — Coding agent infrastructure with isolated execution, independent verification, and evaluation.
 
 ### Tech Stack
 
