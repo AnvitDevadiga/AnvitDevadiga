@@ -18,4 +18,4 @@ I build AI systems focused on model performance, reliable agents, and backend in
 
 ### Connect
 
-[Email](mailto:anvit.works@gmail.com)
+[Email](mailto:contact.anvit@icloud.com)
