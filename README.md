@@ -1,5 +1,5 @@
 
-# Anvit Devadiga
+# Anvit D.
 
 **AI Engineer | ML Systems & Agentic AI**
 
