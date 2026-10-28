@@ -15,7 +15,3 @@ I build AI systems focused on model performance, reliable agents, and backend in
 - **Languages:** Python, TypeScript, SQL
 - **AI/ML:** PyTorch, Transformers, LangGraph, MCP, RAG
 - **Backend & Infrastructure:** FastAPI, PostgreSQL, SQLite, Docker
-
-### Connect
-
-[Email](mailto:contact.anvit@icloud.com)
