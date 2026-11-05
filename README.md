@@ -7,7 +7,7 @@ I build AI systems focused on model performance, reliable agents, and backend in
 
 ### Featured Projects
 
-- **[hebra](https://github.com/AnvitDevadiga/hebra)** — A context engine for AI coding agents: repository-aware context selection under a fixed token budget, with source-verified references.
+- **[hebra](https://github.com/AnvitDevadiga/hebra)** — Repository-aware context engine for AI coding agents
 - **[careo](https://github.com/AnvitDevadiga/careo)** — Catch what the AI rewrite broke. Behavioral comparison for software rewrites.
 
 ### Tech Stack
