@@ -9,7 +9,7 @@ I build AI systems focused on model performance, reliable agents, and backend in
 
 - **[hebra](https://github.com/AnvitDevadiga/hebra)** — Repository-aware context engine for AI coding agents
 - **[careo](https://github.com/AnvitDevadiga/careo)** — Catch what the AI rewrite broke. Behavioral comparison for software rewrites.
-- **[mergeweather](https://github.com/AnvitDevadiga/mergeweather)** — Every branch passes alone, so why does the release fail? Finds the exact set of Git branches that breaks only when merged together.
+- **[mergeweather](https://github.com/AnvitDevadiga/mergeweather)** — Find the Git branches that break only when merged together.
 ### Tech Stack
 
 - **Languages:** Python, TypeScript, SQL
